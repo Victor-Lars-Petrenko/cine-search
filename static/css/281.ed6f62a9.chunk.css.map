@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/281.ed6f62a9.chunk.css","mappings":"AAAA,wBAEE,kBAAmB,CAGnB,SAAU,CAJV,YAAa,CAEb,qBAAsB,CACtB,QAEF","sources":["tools/Error/Error.module.css"],"sourcesContent":[".container {\n  display: flex;\n  align-items: center;\n  flex-direction: column;\n  gap: 10px;\n  color: red;\n}\n"],"names":[],"sourceRoot":""}
