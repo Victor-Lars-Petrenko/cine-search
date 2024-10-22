@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cine-search/static/css/main.7dd3a119.css",
+    "main.css": "/cine-search/static/css/main.9951f5c7.css",
     "main.js": "/cine-search/static/js/main.749f7a75.js",
     "static/css/28.8e6aece2.chunk.css": "/cine-search/static/css/28.8e6aece2.chunk.css",
     "static/js/28.da27f5bf.chunk.js": "/cine-search/static/js/28.da27f5bf.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/2.80462cce.chunk.js": "/cine-search/static/js/2.80462cce.chunk.js",
     "static/js/423.f1802e14.chunk.js": "/cine-search/static/js/423.f1802e14.chunk.js",
     "index.html": "/cine-search/index.html",
-    "main.7dd3a119.css.map": "/cine-search/static/css/main.7dd3a119.css.map",
+    "main.9951f5c7.css.map": "/cine-search/static/css/main.9951f5c7.css.map",
     "main.749f7a75.js.map": "/cine-search/static/js/main.749f7a75.js.map",
     "28.8e6aece2.chunk.css.map": "/cine-search/static/css/28.8e6aece2.chunk.css.map",
     "28.da27f5bf.chunk.js.map": "/cine-search/static/js/28.da27f5bf.chunk.js.map",
@@ -31,7 +31,7 @@
     "423.f1802e14.chunk.js.map": "/cine-search/static/js/423.f1802e14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd3a119.css",
+    "static/css/main.9951f5c7.css",
     "static/js/main.749f7a75.js"
   ]
 }
